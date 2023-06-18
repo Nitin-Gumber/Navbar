@@ -1,0 +1,26 @@
+@media screen and (min-width: 1024px) {
+    
+    .navbar ul {
+        height: 4.4rem;
+    }
+
+    .logo img{
+        width: 3rem;
+    }
+
+    .navbar ul li{
+        padding: 0 2rem;
+        font-size: 1rem;
+    }
+
+    #search{
+        padding: 0.3rem;
+        font-size: 0.9rem;
+    }
+
+    .btn{
+        padding: 0.3rem 1.2rem;
+        font-size: 0.9rem;
+        margin: 0 0.5rem;
+    }
+}

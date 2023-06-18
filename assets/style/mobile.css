@@ -1,0 +1,32 @@
+@media screen and (max-width: 767px) {
+    
+    .navbar ul {
+        height: 3.8rem;
+    }
+
+    .navbar ul li{
+        padding: 0 0 0 0.5rem;
+        font-size: 0.5rem;
+    }
+    
+    .logo img{
+        width: 2.5rem;
+    }
+
+
+    .navbar ul li a{
+        display: none;
+    }
+
+    #search{
+        padding: 0.2rem;
+        font-size: 0.6rem;
+    }
+
+    .btn{
+        padding: 0.2rem 0.8rem;
+        font-size: 0.6rem;
+        margin: 0 0.3rem;
+    }
+
+}
